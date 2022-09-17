@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387299267696",
+    "project_id": "bloc-note-70d9a",
+    "storage_bucket": "bloc-note-70d9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387299267696:android:0c7daa6b24e5e9f585d0b5",
+        "android_client_info": {
+          "package_name": "com.injilionel.blocnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387299267696-2pgledvrhtfsnbtevr25c76iqs38p33a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEHV_9G5_6Yb1lyKzoZoK0_eyBQt85JIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387299267696-2pgledvrhtfsnbtevr25c76iqs38p33a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
